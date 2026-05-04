@@ -1,0 +1,1 @@
+Run sql/autoparts_oracle.sql in Oracle SQL Developer and add ojdbc jar in Eclipse.

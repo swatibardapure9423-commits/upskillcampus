@@ -1,0 +1,7 @@
+package com.autoparts.dao;
+
+public class TestConnection {
+    public static void main(String[] args) {
+        DBConnection.getConnection();
+    }
+}

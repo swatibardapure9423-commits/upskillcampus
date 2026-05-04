@@ -1,0 +1,1 @@
+<html><body><h2>Products</h2><div>Brake Pads - ₹2500</div><div>Battery - ₹4500</div><div>Tires - ₹6000</div></body></html>

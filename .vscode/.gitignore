@@ -1,0 +1,13 @@
+# Eclipse files
+.p2/
+.metadata/
+*.log
+
+# Build folders
+bin/
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
